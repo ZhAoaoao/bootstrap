@@ -22,6 +22,7 @@ See the browser and devices page for details on what is currently supported in B
 
 Changes to our source Sass files and compiled CSS.
 
+- Removed `hover`, `hover-focus`, `plain-hover-focus`, and `hover-focus-active` mixins. Use regular CSS syntax for these moving forward.
 - **Todo:** Remove previously deprecated mixins
   - `float()`
   - `form-control-mixin()`
